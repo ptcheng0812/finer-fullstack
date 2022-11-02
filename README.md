@@ -21,11 +21,11 @@ npm start
 
 ##Step2. Backend is ready at http://localhost:3050
 
-### How to run the front end (UI)
+### How to run the interface (UI)
 
 ##Step1. Go to finer-frontend directory and open terminal and run
 ```node
 npm start
 ```
 
-##Step2. Backend is ready at http://localhost:3000
+##Step2. Frontend is ready at http://localhost:3000
