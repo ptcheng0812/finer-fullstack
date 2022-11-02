@@ -16,16 +16,26 @@
 
 ##Step1. Go to finer-backend directory and open terminal and run
 ```node
+npm install
+```
+
+##Step2. after depencies installed, run
+```node
 npm start
 ```
 
-##Step2. Backend is ready at http://localhost:3050
+##Step3. Backend is ready at http://localhost:3050
 
 ### How to run the interface (UI)
 
 ##Step1. Go to finer-frontend directory and open terminal and run
 ```node
+npm install
+```
+
+##Step2. after depencies installed, run
+```node
 npm start
 ```
 
-##Step2. Frontend is ready at http://localhost:3000
+##Step3. Frontend is ready at http://localhost:3000
