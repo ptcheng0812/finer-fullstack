@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/ptcheng0812/finer-froentend
+[submodule "api"]
+	path = api
+	url = https://github.com/ptcheng0812/finer-backend
